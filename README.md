@@ -43,6 +43,8 @@ Der Output wird mit folgendem Aufbau generiert:
 	<sequence3><tab><classification>
 	<sequence4><tab><classification>
 	...
+		
+## Authors: Julian Späth, Rehan App & Kevin Krumm
 
 
 
